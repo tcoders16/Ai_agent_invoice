@@ -1,0 +1,10 @@
+
+
+node_modules
+.env
+.env.example
+.env.local
+.env.test
+.env.test.example
+.env.test.local
+.env.test.local.example
