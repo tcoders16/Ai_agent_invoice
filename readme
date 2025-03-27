@@ -1,0 +1,8 @@
+Step 1) Create all tthe config in openaiMongoConfig.js file for all the services we are using
+Step 2) Create all the services in the services folder
+
+Step 3) Create all the controllers in the controllers folder
+Step 4) Create all the models in the models folder
+Step 5) Create all the routes in the routes folder
+
+The services folder will have image recognition js file
